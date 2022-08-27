@@ -1,0 +1,18 @@
+<h1> AHMET M. COGUNNU </h1>
+<h2>About Me</h2>
+<!-- Benim hakkımda bilgi -->
+
+<P>Hello my name is ahmet,i live in berlin, 
+    i deal with software and programming </P>
+    
+    <h3>My Education</h3>
+    <!-- Öğrenim hayatım hakkında bilgi -->
+    <p>first school Yaltır K. in Ceyhan</p>
+    <p>high school Health </p>
+    <p>University KTO karatay Mechatronics</p>
+    
+    <h2>programming language i learned</h2>
+    <!-- Öğrenme aşamasında olduğum programlama dilleri -->
+    <p>JAVA</p>
+    <p>HTML</p>
+    <p>CSS</p>
